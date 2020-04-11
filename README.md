@@ -7,7 +7,7 @@ A.P. Daga, A. Fasana, S. Marchesiello, L. Garibaldi, The Politecnico di Torino r
 
 This is work in progress. 
 
-Please see the notebook *Machine Learning for Damage Identification on Rolling Bearings*. 
+Please see the notebook **Machine Learning for Damage Identification on Rolling Bearings**. 
 
 The author do not assume any liability or provide any warranty implicit or explicit. 
 
