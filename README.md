@@ -7,7 +7,7 @@ A.P. Daga, A. Fasana, S. Marchesiello, L. Garibaldi, The Politecnico di Torino r
 
 This is work in progress. 
 
-Please see the notebook: [**Machine Learning for Damage Identification on Rolling Bearings**](https://github.com/germa89/Machine_Learning_for_damage_detection_in_rolling_bearings/blob/master/Machine%20Learning%20for%20Damage%20Identification%20on%20Rolling%20Bearings.ipynb) 
+**Please visit the notebook:** [**Machine Learning for Damage Identification on Rolling Bearings**](https://github.com/germa89/Machine_Learning_for_damage_detection_in_rolling_bearings/blob/master/Machine%20Learning%20for%20Damage%20Identification%20on%20Rolling%20Bearings.ipynb) 
 
 The author do not assume any liability or provide any warranty implicit or explicit. 
 
